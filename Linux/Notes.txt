@@ -1,0 +1,20 @@
+Notes for Linux
+
+mkdir - create folder 
+cd - open folder 
+.. go back
+~ go to home
+
+ls - list
+ls -l show more details
+
+pwd - present working directory
+
+touch - create file
+vi - create and opne file
+echo "Hello" > file.txt  - add content 
+
+cat - reat
+
+
+
